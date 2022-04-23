@@ -124,7 +124,6 @@ def changeFunction():
 
 changeFunction()
 
-print(globalOne)
 
 
 
